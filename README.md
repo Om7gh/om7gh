@@ -3,17 +3,20 @@
 💻 Software Developer | 1337 Coding School  
 ⚙️ C / C++ | JavaScript | React | Systems Programming  
 
-I enjoy building low-level systems, solving algorithmic problems,
+I enjoy building web application systems, solving algorithmic problems,
 and creating clean, interactive user experiences.
 
-🔗 Portfolio: your-link  
-📫 Contact: email / LinkedIn
+🔗 Portfolio: https://portfolio-nine-sooty-64.vercel.app/
+📫 Contact: 
+    email: omarbytessolution@gmail.com
+    linkedIn : https://www.linkedin.com/in/omar-ghazi0/
 
 ### 🛠 Tech Stack
 - C / C++
-- JavaScript / React
+- JavaScript - typescript / React
 - Git / GitHub
 - Linux
+- bash
 
 ### 🚀 Featured Projects
 ⬇️ Check my pinned repositories below
