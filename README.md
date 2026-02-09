@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Omar
 
 💻 Software Developer | 1337 Coding School  
-⚙️ C / C++ | JavaScript | React | Systems Programming  
+⚙️ C / C++ | JavaScript/typescript | React | Systems design  
 
 I enjoy building web application systems, solving algorithmic problems,
 and creating clean, interactive user experiences.
@@ -17,6 +17,8 @@ and creating clean, interactive user experiences.
 - Git / GitHub
 - Linux
 - bash
+- docker
+- nginx
 
 ### 🚀 Featured Projects
 ⬇️ Check my pinned repositories below
