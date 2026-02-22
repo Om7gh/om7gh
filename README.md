@@ -14,7 +14,8 @@ and creating clean, interactive user experiences.
 
 ### 🛠 Tech Stack
 - C / C++
-- JavaScript - typescript / React
+- JavaScript - typescript / React - next
+- node - fastify / express
 - Git / GitHub
 - Linux
 - bash
