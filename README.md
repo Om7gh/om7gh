@@ -6,7 +6,8 @@
 I enjoy building web application systems, solving algorithmic problems,
 and creating clean, interactive user experiences.
 
-🔗 Portfolio: https://portfolio-nine-sooty-64.vercel.app/
+🔗 Portfolio: https://portfolio-nine-sooty-64.vercel.app
+
 📫 Contact: 
     email: omarbytessolution@gmail.com
     linkedIn : https://www.linkedin.com/in/omar-ghazi0/
